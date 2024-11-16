@@ -125,7 +125,11 @@ activity for certain agencies or time periods.
 **Data Transformations**  
 Data was filtered to include only the years from 1950 to 2020 to reduce noise and focus on relevant periods.
 
-
+## Write-Up about Homework 5
+I am doing the similar plots to my Homework5. The basic data filtering and altair chart encoding is similar to my previous
+work. The main differences is to achieve the interactivity. As I mentioned above, an HTML style select box was added and javascript
+event listener was added to ensure different charts are loaded when selecting different agency. Compared with homework 5, this time
+my work is kind of more dirty (or low memory efficiency) because I have to save each single json file of different agencies.
 
 ## Search The Data & Methods
 
