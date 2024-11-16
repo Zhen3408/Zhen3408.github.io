@@ -131,23 +131,13 @@ Data was filtered to include only the years from 1950 to 2020 to reduce noise an
 
 Below is where we can put some links to both the data and the analysis code as buttons:
 
-```
-<div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
-</div>
-```
-
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/Zhen3408/Zhen3408.github.io/tree/main/assets/json" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/Zhen3408/Zhen3408.github.io/blob/main/python_notebooks/hw6_notebook.ipynb" text="The Analysis" %}
 </div>
 
